@@ -4,7 +4,7 @@ This is the openlab test page and here the instructions to get the best reposito
 
 ## Project name, project webpage and project GitHub repository
 
-- CERN Science for Open Data (CS4OD): [webpage](https://openlab.cern/index.php/project/cern-science-open-data){:target="_blank"} and [repository](https://github.com/CERN/CS4OD){:target="_blank"}
+- CERN Science for Open Data (CS4OD): [webpage](https://openlab.cern/index.php/project/cern-science-open-data){target="_blank"} and [repository](https://github.com/CERN/CS4OD){target="_blank"}
 
 Before uploading your repository make sure that:
 

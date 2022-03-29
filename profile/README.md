@@ -3,14 +3,14 @@
 This is the openlab test page and here the instructions to get the best repository  ever!
 
 <details>
-    <summary> ## Project name, project webpage and project GitHub repository</summary>
+    <summary>  <h1>Project name, project webpage and project GitHub repository </h1> </summary>
 
 - CERN Science for Open Data (CS4OD): [webpage](https://openlab.cern/index.php/project/cern-science-open-data/?target=_blank) and [repository](https://github.com/CERN/CS4OD/?target=_blank)
 
 </details>
 
 <details>
-    <summary>## Must have before uploading a new repository:</summary>
+    <summary><h1> Must have before uploading a new repository</h1></summary>
 
 - [ ] your repository has the same name of the project you are working on. If there exists another repository with the same name, it is very likely that the repository for your project already exists. Ask the owner for permision to commit there.  
 - [ ] your repository has a `README.md` file. 

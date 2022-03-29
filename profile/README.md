@@ -9,7 +9,8 @@ This is the openlab test page and here the instructions to get the best reposito
 ## Must have before uploading a new repository:
 
 - [ ] your repository has the same name of the project you are working on. If there exists another repository with the same name, it is very likely that the repository for your project already exists. Ask the owner for permision to commit there.  
-- [ ] your repository has a README.md file. 
+- [ ] your repository has a `README.md` file. 
+- [ ] your repoository has a `licence.md`. Ask your supervisor if you don't know which one.
 - [ ] your repository has the .gitignore file. Check [here](https://www.toptal.com/developers/gitignore) which .gitignore file you need for your programming language(s) 
 
 

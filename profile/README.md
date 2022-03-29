@@ -6,9 +6,9 @@ This is the openlab test page and here the instructions to get the best reposito
 
 - CERN Science for Open Data (CS4OD): [webpage](https://openlab.cern/index.php/project/cern-science-open-data) and [repository](https://github.com/CERN/CS4OD)
 
-Before uploading your repository make sure that:
+## Must have before uploading a new repository:
 
-- [ ] your repository has the same name of the project you are working on. If there exists another repository with the same name, it is very likely that the repositoory for your project already exists. Ask the owner for permision to commit there.  
+- [ ] your repository has the same name of the project you are working on. If there exists another repository with the same name, it is very likely that the repository for your project already exists. Ask the owner for permision to commit there.  
 - [ ] your repository has a README.md file. 
 - [ ] your repository has the .gitignore file. Check [here](https://www.toptal.com/developers/gitignore) which .gitignore file you need for your programming language(s) 
 

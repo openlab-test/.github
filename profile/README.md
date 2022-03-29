@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+This is the openlab test page and here the instructions to get the best repository  ever!
+
+Before uploading yuor repository make sure that:
+
+- [ ] your rpository has the same name of the project you are working on. If there exist another repository with  the same name, you likely would ask for permisioon to commit there  
+- [ ] your repository  has a README.md file. 
+- [ ] your repository has the .gitignore file. Check [here](https://www.toptal.com/developers/gitignore) which .gitignore file you need for your programming language(s) 
+
+
+
 <!--
 
 **Here are some ideas to get you started:**

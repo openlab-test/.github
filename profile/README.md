@@ -1,6 +1,6 @@
-# Hi there 👋
+# CERN openlab [![Made at CERN!](https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg)](https://home.cern)
 
-This is the openlab test page and here the instructions to get the best repository  ever!
+This is the CERN openlab test page and here the instructions to get the best repository  ever!
 
 <details>
     <summary>  <h3>Project name, project webpage and project GitHub repository </h3> </summary>

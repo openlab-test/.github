@@ -1,4 +1,4 @@
-# CERN openlab [![Made at CERN!](https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg)](https://home.cern)
+# CERN openlab [![Made at CERN!](https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg)](https://home.cern)[![Made at CERN!](https://img.shields.io/badge/CERN%20openlab-openlab-brightgreen)](https://openlab.cern/)
 
 This is the CERN openlab test page and here the instructions to get the best repository  ever!
 

@@ -10,8 +10,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
 
 - [ ] Check if there already exists a respository associated to your project 
 
-<details>
-    <summary><h3> How to create a new remote repository in GitHub?</h3></summary>
+## How to create a new remote repository in GitHub?
   
   
 - [ ] click on `new` 
@@ -24,10 +23,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
 - [ ] Create repository
     
     
-</details>
-
-
-    <summary><h3> Requirements of the new repository </h3></summary>
+##  Requirements of the new repository
 - [ ] `README.md` with full description of the project and commit this change to main
 - [ ] `main` branch
 - [ ] `develop` branch 

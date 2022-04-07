@@ -3,21 +3,37 @@
 This is the CERN openlab test page and here the instructions to get the best repository  ever!
 
 <details>
-    <summary>  <h3>Project name, project webpage and project GitHub repository </h3> </summary>
+    <h3>Project name, project webpage and project GitHub repository </h3> 
 
 - CERN Science for Open Data (CS4OD): [webpage](https://openlab.cern/index.php/project/cern-science-open-data/?target=_blank) and [repository](https://github.com/CERN/CS4OD/?target=_blank)
 
 </details>
 
-<details>
-    <summary><h3> Must have before uploading a new repository</h3></summary>
 
-- [ ] your repository has the same name of the project you are working on. If there exists another repository with the same name, it is very likely that the repository for your project already exists. Ask the owner for permision to commit there.  
-- [ ] your repository has a `README.md` file. 
-- [ ] your repoository has a `licence.md`. Ask your supervisor if you don't know which one.
-- [ ] your repository has the .gitignore file. Check [here](https://www.toptal.com/developers/gitignore) which .gitignore file you need for your programming language(s) 
+- [ ] Check if there already exists a respository associated to your project 
+
+<details>
+    <summary><h3> How to create a new remote repository in GitHub?</h3></summary>
+  
+  
+- [ ] click on `new` 
+- [ ] add Repository name
+- [ ] add Description. Description must be the project's full name 
+- [ ] be sure the repository is set to `Private`    
+- [ ] flag `Add a README.md file`, 
+- [ ] flag `Add .gitignore` and choose the desired programming language
+- [ ] flag `Choose a license` and choose the desired license (choose MIT License if unknown)
+- [ ] Create repository
+    
+    
 </details>
 
+
+    <summary><h3> Requirements of the new repository </h3></summary>
+- [ ] `README.md` with full description of the project and commit this change to main
+- [ ] `main` branch
+- [ ] `develop` branch 
+- [ ] if any, individuals development branch
 
 
 

@@ -2,12 +2,10 @@
 
 This is the CERN openlab test page and here the instructions to get the best repository  ever!
 
-<details>
+
     <h3>Project name, project webpage and project GitHub repository </h3> 
 
 - CERN Science for Open Data (CS4OD): [webpage](https://openlab.cern/index.php/project/cern-science-open-data/?target=_blank) and [repository](https://github.com/CERN/CS4OD/?target=_blank)
-
-</details>
 
 
 - [ ] Check if there already exists a respository associated to your project 

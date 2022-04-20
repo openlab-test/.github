@@ -21,9 +21,9 @@ This is the CERN openlab test page and here the instructions to get the best rep
 - [ ] flag `Choose a license` and choose the desired license (choose MIT License if unknown)
 - [ ] Create repository
 - [ ] add repository topic: [procedure](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics). Choose between:
-  - [x] ML (classical machine learning)
-  - [x]QML (quantum machine learning)
-  - [x]QTI (quantum technology initiative)
+  - [ ] ML (classical machine learning)
+  - [ ] QML (quantum machine learning)
+  - [ ] QTI (quantum technology initiative)
     
     
 ##  Requirements of the new repository

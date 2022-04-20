@@ -36,9 +36,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
 - [ ] `LICENSE` 
 - [ ] repository topic
  
-Use correct branching methods for a clean GitHub tree ([docs (https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
-
-
+Use correct branching methods for a clean GitHub tree ([docs] (https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
 
 
 <!--
@@ -49,6 +47,6 @@ Use correct branching methods for a clean GitHub tree ([docs (https://gist.githu
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)![topics 001](https://user-images.githubusercontent.com/33418276/164236431-22d9c5af-48f6-47e7-a66d-d248d13af87c.jpeg)
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 -->

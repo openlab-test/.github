@@ -36,7 +36,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
 - [ ] `LICENSE` 
 - [ ] repository topic
  
-Use correct branching methods for a clean GitHub tree ([docs] (https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
+Use correct branching methods for a clean GitHub tree ([docs](https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
 
 
 <!--

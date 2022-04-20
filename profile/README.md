@@ -25,18 +25,34 @@ This is the CERN openlab test page and here the instructions to get the best rep
   - [ ] ML (classical machine learning)
   - [ ] QML (quantum machine learning)
   - [ ] QTI (quantum technology initiative)
+- [ ] use `main` branch for production-ready state only
+- [ ] create `develop` branch for the latest delivered development changes for the next release
+- [ ] create your development branch where each contributor works on a daily basis
+ Use correct branching methods for a clean GitHub tree ([docs](https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
     
-    
-    
-##  Requirements of the new repository
-- [ ] `README.md` with full description of the project and commit this change to main
-- [ ] `main` branch for production-ready state
-- [ ] `develop` branch for the latest delivered development changes for the next release
-- [ ] if any, individuals development branch where each contributor works on a daily basis
-- [ ] `LICENSE` 
-- [ ] repository topic
- 
-Use correct branching methods for a clean GitHub tree ([docs](https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
+   
+##  Requirements for the README
+ Full description of the project
+- [ ] Description of the project 
+- [ ] How to install 
+  - [ ] definition of virtual environment (anaconda/venv) used
+  - [ ] instruction to install the package (requirements.txt or setup.cfg etc)
+  - [ ] instruction how to run the code
+- [ ] Quick start: minimal working example / tutorials / demos
+
+##  Requirements for the CODE
+- [ ] `requirements.txt` or `environment.yaml`(for conda) or `setup.cfg + pyproject.toml` or `setup.py`([setuptools](https://setuptools.pypa.io/en/latest/))
+- [ ] `src/packagename` folder with source files
+- [ ] formatting: production code must be formatted with [Black](https://github.com/psf/black)
+- [ ] function annotations: augment all functions and modules with [dosctrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/index.html)
+
+##  Requirements before promoting the the project from private to public
+- [ ] `bibliography.md`: Zenodo link to external papers and datasets used
+- [ ] Semantic versioning: comply with [semver.org](https://github.com/semver/semver/blob/master/semver.md) and [apache.org](https://apr.apache.org/versioning.html)
+- [ ] documentation: using [Sphynx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html) with Napoleon theme and Autodoc, include it in `docs` folder
+- [ ] citation policy: how to use and cite the code (e.g. BibTex reference)
+
+
 
 
 <!--

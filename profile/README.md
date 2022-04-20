@@ -20,6 +20,10 @@ This is the CERN openlab test page and here the instructions to get the best rep
 - [ ] flag `Add .gitignore` and choose the desired programming language
 - [ ] flag `Choose a license` and choose the desired license (choose MIT License if unknown)
 - [ ] Create repository
+- [ ] add repository topic: [procedure](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics). Choose between:
+  - [x] ML (classical machine learning)
+  - [x]QML (quantum machine learning)
+  - [x]QTI (quantum technology initiative)
     
     
 ##  Requirements of the new repository
@@ -28,6 +32,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
 - [ ] `develop` branch for the latest delivered development changes for the next release
 - [ ] if any, individuals development branch where each contributor works on a daily basis
 - [ ] `LICENSE` 
+- [ ] repository topic
  
 Use correct branching methods for a clean GitHub tree ([docs (https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
 

@@ -20,10 +20,12 @@ This is the CERN openlab test page and here the instructions to get the best rep
 - [ ] flag `Add .gitignore` and choose the desired programming language
 - [ ] flag `Choose a license` and choose the desired license (choose MIT License if unknown)
 - [ ] Create repository
-- [ ] add repository topic: [procedure](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics). Choose between:
+- [ ] add repository topic: [procedure](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics). 
+  Choose between:
   - [ ] ML (classical machine learning)
   - [ ] QML (quantum machine learning)
   - [ ] QTI (quantum technology initiative)
+    
     
     
 ##  Requirements of the new repository
@@ -47,5 +49,6 @@ Use correct branching methods for a clean GitHub tree ([docs (https://gist.githu
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)![topics 001](https://user-images.githubusercontent.com/33418276/164236431-22d9c5af-48f6-47e7-a66d-d248d13af87c.jpeg)
+
 -->

@@ -10,8 +10,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
 
 - [ ] Check if there already exists a respository associated to your project 
 
-## How to create a new remote repository in GitHub?
-  
+## Procedure to create a new remote repository in GitHub
   
 - [ ] click on `new` 
 - [ ] add Repository name
@@ -25,10 +24,12 @@ This is the CERN openlab test page and here the instructions to get the best rep
     
 ##  Requirements of the new repository
 - [ ] `README.md` with full description of the project and commit this change to main
-- [ ] `main` branch
-- [ ] `develop` branch 
-- [ ] if any, individuals development branch
-
+- [ ] `main` branch for production-ready state
+- [ ] `develop` branch for the latest delivered development changes for the next release
+- [ ] if any, individuals development branch where each contributor works on a daily basis
+- [ ] `LICENSE` 
+ 
+Use correct branching methods for a clean GitHub tree ([docs (https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
 
 
 

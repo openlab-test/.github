@@ -49,7 +49,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
 ##  Requirements before promoting the project from private to public
 - [ ] `bibliography.md`: Zenodo link to external papers and datasets used
 - [ ] Semantic versioning: comply with [semver.org](https://github.com/semver/semver/blob/master/semver.md) and [apache.org](https://apr.apache.org/versioning.html)
-- [ ] documentation: using [readthedocs](https://docs.readthedocs.io/en/stable/tutorial/)
+- [ ] documentation: using [readthedocs](https://docs.readthedocs.io/en/stable/tutorial/) and [simple formatting rules](https://hplgit.github.io/teamods/sphinx_api/html/sphinx_api.html)
 <!--
 - [ ] [Sphynx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html) with Napoleon theme and Autodoc, include it in `docs` folder
 -->

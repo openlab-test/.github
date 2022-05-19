@@ -30,7 +30,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
 - [ ] create your development branch where each contributor works on a daily basis
  Use correct branching methods for a clean GitHub tree ([docs](https://gist.github.com/stuartsaunders/448036/5ae4e961f02e441e98528927d071f51bf082662f) and [example](https://nvie.com/posts/a-successful-git-branching-model/))
     
-See as an example of a ready to public repositry [here](https://github.com/openlab-test/example-repo). Details about README, CODE and HOW TO MAKE IT PUBLIC follow:
+### See as an example of a ready to public repositry [here](https://github.com/openlab-test/example-repo). Details about README, CODE and HOW TO MAKE IT PUBLIC follow:
 
 
 ##  Requirements for the README

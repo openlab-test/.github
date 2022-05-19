@@ -25,7 +25,7 @@ This is the CERN openlab test page and here the instructions to get the best rep
   - [ ] ML (classical machine learning)
   - [ ] QML (quantum machine learning)
   - [ ] QTI (quantum technology initiative)
-  - [ ] Classical Statistics
+  - [ ] ST (classical statistics)
 - [ ] use `main` branch for production-ready state only
 - [ ] create `develop` branch for the latest delivered development changes for the next release
 - [ ] create your development branch where each contributor works on a daily basis
